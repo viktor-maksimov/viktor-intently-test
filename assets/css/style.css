@@ -1,0 +1,17 @@
+body {
+    color: #555;
+}
+
+.results {
+    display: flex;
+    gap: 40px;
+}
+
+table, th, td {
+    border: 1px solid #333;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}

@@ -1,0 +1,9 @@
+{
+    "name": "viktor/intently",
+    "description": "This is the composer description for intently",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
